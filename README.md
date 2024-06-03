@@ -10,8 +10,8 @@ The testing should start by cloning the repo. In case Foundry does not exist, we
 
 1. Clone the Repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/denizumutdereli/layerzerov2-blockchain-bridge
+    cd layerzerov2-blockchain-bridge
     ```
 
 2. Install Foundry if not already installed:
