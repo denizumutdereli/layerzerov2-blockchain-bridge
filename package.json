@@ -1,0 +1,12 @@
+{
+  "name": "layerzero-v2-omni-bridge",
+  "author": "@denizumutdereli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@layerzerolabs/lz-evm-protocol-v2": "^2.3.19",
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
