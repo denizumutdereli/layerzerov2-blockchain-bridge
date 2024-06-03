@@ -28,6 +28,8 @@ The testing should start by cloning the repo. In case Foundry does not exist, we
 ## Configuration
 
 The `foundry.toml` is already set up with the necessary dependencies:
+
+
     [profile.default]
     src = 'src'
     out = 'out'
